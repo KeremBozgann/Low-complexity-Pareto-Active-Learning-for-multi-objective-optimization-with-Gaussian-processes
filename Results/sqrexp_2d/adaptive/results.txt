@@ -1,0 +1,9 @@
+average_samplings:[52.]
+epsilon_percentage_list:[5]
+number of iterations:1
+average_samplings:[52.]
+epsilon_percentage_list:[5]
+number of iterations:1
+average_samplings:[52.]
+epsilon_percentage_list:[5]
+number of iterations:1
